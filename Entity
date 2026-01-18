@@ -39,7 +39,7 @@ local entity = spawner.Create({
 		Values = {5.5, 50, 0.5, 2} -- Magnitude, Roughness, FadeIn, FadeOut
 	},
 	Movement = {
-		Speed = 400,
+		Speed = 350,
 		Delay = 1,
 		Reversed = false
 	},
